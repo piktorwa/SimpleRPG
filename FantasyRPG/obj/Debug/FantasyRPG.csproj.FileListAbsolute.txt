@@ -1,0 +1,8 @@
+C:\Users\wikto\source\repos\FantasyRPG\FantasyRPG\bin\Debug\FantasyRPG.exe.config
+C:\Users\wikto\source\repos\FantasyRPG\FantasyRPG\bin\Debug\FantasyRPG.exe
+C:\Users\wikto\source\repos\FantasyRPG\FantasyRPG\bin\Debug\FantasyRPG.pdb
+C:\Users\wikto\source\repos\FantasyRPG\FantasyRPG\obj\Debug\FantasyRPG.csproj.AssemblyReference.cache
+C:\Users\wikto\source\repos\FantasyRPG\FantasyRPG\obj\Debug\FantasyRPG.csproj.SuggestedBindingRedirects.cache
+C:\Users\wikto\source\repos\FantasyRPG\FantasyRPG\obj\Debug\FantasyRPG.csproj.CoreCompileInputs.cache
+C:\Users\wikto\source\repos\FantasyRPG\FantasyRPG\obj\Debug\FantasyRPG.exe
+C:\Users\wikto\source\repos\FantasyRPG\FantasyRPG\obj\Debug\FantasyRPG.pdb
